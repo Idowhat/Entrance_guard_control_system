@@ -30,16 +30,16 @@ RC-522 is an integrated circuit read/write module for IC cards at a distance of 
 
 The main interface will display the date and time and relevant welcome words as shown in the figure.
 <p align = "center">
-<img src="https://github.com/Idowhat/img_video/blob/main/imag_Entrance_guard/main_interface.png?raw=true" width = "30%" height = "30%" />
+<img src="https://github.com/Idowhat/img_video/blob/main/img_Entrance_guard/main_interface.png?raw=true" width = "30%" height = "30%" />
 </p>
 
 After entering the password into the management interface, you can perform IC card management, time modification, fingerprint management, and password management.
 
 <p align = "center">    
-<img  src="https://github.com/Idowhat/img_video/blob/main/imag_Entrance_guard/Gen_mana_inter.png?raw=true" hight="600" width="200" />
-<img  src="https://github.com/Idowhat/img_video/blob/main/imag_Entrance_guard/IC_inter.png?raw=true"  hight="600" width="200" />
-<img  src="https://github.com/Idowhat/img_video/blob/main/imag_Entrance_guard/modification_time.png?raw=true"  hight="600" width="200" />
-<img  src="https://github.com/Idowhat/img_video/blob/main/imag_Entrance_guard/finger_mana_inter.png?raw=true" hight="600" width="200" />
+<img  src="https://github.com/Idowhat/img_video/blob/main/img_Entrance_guard/Gen_mana_inter.png?raw=true" hight="600" width="200" />
+<img  src="https://github.com/Idowhat/img_video/blob/main/img_Entrance_guard/IC_inter.png?raw=true"  hight="600" width="200" />
+<img  src="https://github.com/Idowhat/img_video/blob/main/img_Entrance_guard/modification_time.png?raw=true"  hight="600" width="200" />
+<img  src="https://github.com/Idowhat/img_video/blob/main/img_Entrance_guard/finger_mana_inter.png?raw=true" hight="600" width="200" />
 </p>
 
 ### Unlock Demo
@@ -47,7 +47,7 @@ After entering the password into the management interface, you can perform IC ca
 Next is the demonstration of password unlocking, fingerprint unlocking and IC card unlocking methods respectively.
 
 <p align = "center">    
-<img  src="https://github.com/Idowhat/img_video/blob/main/imag_Entrance_guard/passward.png?raw=true" hight="600" width="300" />
-<img  src="https://github.com/Idowhat/img_video/blob/main/imag_Entrance_guard/finger_pass.png?raw=true"  hight="600" width="300" />
-<img  src="https://github.com/Idowhat/img_video/blob/main/imag_Entrance_guard/IC_pass.png?raw=true"  hight="600" width="300" />
+<img  src="https://github.com/Idowhat/img_video/blob/main/img_Entrance_guard/passward.png?raw=true" hight="600" width="300" />
+<img  src="https://github.com/Idowhat/img_video/blob/main/img_Entrance_guard/finger_pass.png?raw=true"  hight="600" width="300" />
+<img  src="https://github.com/Idowhat/img_video/blob/main/img_Entrance_guard/IC_pass.png?raw=true"  hight="600" width="300" />
 </p>
